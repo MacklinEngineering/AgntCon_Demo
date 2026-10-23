@@ -1,0 +1,14 @@
+{
+  "demo": "locked-door",
+  "conversations": {
+    "pantry-coordination": {
+      "id": "794dc0ab-2c26-483d-988e-ea08fbb5ae73",
+      "title": "Pantry coordination"
+    },
+    "helpline-referral": {
+      "id": "1679b2a3-2dff-4830-a73d-a009cc7ddafa",
+      "title": "Community helpline"
+    }
+  },
+  "seeded_at": "2026-10-23T13:46:56+00:00"
+}

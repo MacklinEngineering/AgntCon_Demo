@@ -1,0 +1,31 @@
+{
+  "enabledMcpjsonServers": [
+    "agent-memory"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__agent-memory__memory_get_conversation"
+    ],
+    "deny": [
+      "mcp__agent-memory__memory_search",
+      "mcp__agent-memory__memory_get_context",
+      "mcp__agent-memory__memory_store_message",
+      "mcp__agent-memory__memory_add_entity",
+      "mcp__agent-memory__memory_add_preference",
+      "mcp__agent-memory__memory_add_fact",
+      "mcp__agent-memory__memory_list_sessions",
+      "mcp__agent-memory__memory_get_entity",
+      "mcp__agent-memory__memory_export_graph",
+      "mcp__agent-memory__memory_create_relationship",
+      "mcp__agent-memory__memory_start_trace",
+      "mcp__agent-memory__memory_record_step",
+      "mcp__agent-memory__memory_complete_trace",
+      "mcp__agent-memory__memory_get_observations",
+      "mcp__agent-memory__graph_query",
+      "mcp__agent-memory__memory_set_entity_feedback",
+      "mcp__agent-memory__memory_get_entity_history",
+      "mcp__agent-memory__memory_get_entity_provenance",
+      "mcp__agent-memory__memory_get_reflections"
+    ]
+  }
+}
